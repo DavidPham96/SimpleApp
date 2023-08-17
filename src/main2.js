@@ -1,3 +1,3 @@
 <Script>
-    Console.log("main33")
+    Console.log("main2")
 </Script>
