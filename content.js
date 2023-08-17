@@ -1,3 +1,3 @@
 <javascript>
-    Console.log("Ver1");
+    Console.log("Ver2");
 </javascript>
